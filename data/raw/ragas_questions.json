@@ -1,0 +1,82 @@
+[
+  {
+    "question": "How many paid vacation days do new full-time employees receive each year?",
+    "ground_truth": "New full-time employees receive 15 paid vacation days annually."
+  },
+  {
+    "question": "Can employees carry over unused vacation days into the next year?",
+    "ground_truth": "Employees may carry over up to 5 unused vacation days with manager approval."
+  },
+  {
+    "question": "How many paid sick days are employees entitled to each calendar year?",
+    "ground_truth": "Employees receive 10 paid sick days per calendar year."
+  },
+  {
+    "question": "When should an employee notify their manager about taking sick leave?",
+    "ground_truth": "Employees should notify their manager as soon as possible before the start of their scheduled workday."
+  },
+  {
+    "question": "Who is responsible for approving a remote work arrangement?",
+    "ground_truth": "The employee's direct manager must approve remote work arrangements."
+  },
+  {
+    "question": "How often should remote employees attend team meetings?",
+    "ground_truth": "Remote employees are expected to attend all required virtual team meetings and scheduled one-on-one meetings."
+  },
+  {
+    "question": "What should an employee do if they experience workplace harassment?",
+    "ground_truth": "Employees should report the incident immediately to Human Resources, their manager, or the company's ethics reporting channel."
+  },
+  {
+    "question": "Does the company prohibit retaliation against employees who report misconduct?",
+    "ground_truth": "Yes. Retaliation against employees who report concerns in good faith is strictly prohibited."
+  },
+  {
+    "question": "Can employees install personal software on company-issued laptops?",
+    "ground_truth": "No. Personal software may not be installed on company devices without prior approval from the IT department."
+  },
+  {
+    "question": "How should employees handle confidential company information?",
+    "ground_truth": "Confidential information must be protected and shared only with authorized individuals who have a legitimate business need."
+  },
+  {
+    "question": "How long is the standard probation period for new employees?",
+    "ground_truth": "The standard probation period is 90 days from the employee's start date."
+  },
+  {
+    "question": "What activities are employees expected to complete during onboarding?",
+    "ground_truth": "Employees must complete orientation, mandatory training, required paperwork, and acknowledge all company policies."
+  },
+  {
+    "question": "How frequently are formal performance reviews conducted?",
+    "ground_truth": "Formal performance reviews are conducted once each year, supported by regular manager check-ins throughout the year."
+  },
+  {
+    "question": "What factors are considered during performance evaluations?",
+    "ground_truth": "Performance evaluations consider goal achievement, job performance, collaboration, communication, and adherence to company values."
+  },
+  {
+    "question": "Which business travel expenses are eligible for reimbursement?",
+    "ground_truth": "Reasonable airfare, hotel accommodations, ground transportation, and approved meal expenses are eligible for reimbursement."
+  },
+  {
+    "question": "When should employees submit expense reimbursement claims?",
+    "ground_truth": "Employees should submit expense reports within 30 days of completing business travel."
+  },
+  {
+    "question": "Who should employees contact with questions about employee benefits?",
+    "ground_truth": "Employees should contact the Human Resources department for questions regarding employee benefits."
+  },
+  {
+    "question": "What may happen if an employee repeatedly violates the Code of Conduct?",
+    "ground_truth": "Repeated violations may result in progressive disciplinary action up to and including termination of employment."
+  },
+  {
+    "question": "Who has the authority to approve exceptions to HR policies?",
+    "ground_truth": "Documented exceptions may be approved by Human Resources or executive management."
+  },
+  {
+    "question": "What are employees expected to do regarding company policies?",
+    "ground_truth": "Employees are expected to read, understand, acknowledge, and comply with all company policies throughout their employment."
+  }
+]
