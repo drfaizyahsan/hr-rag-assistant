@@ -24,7 +24,7 @@ spark = (
 spark.sparkContext.setLogLevel("WARN")
 
 
-class Build_VectorStore:
+class BuildVectorStore:
     def __init__(
         self,
         path_to_pdf: str = "./data/raw/",
@@ -204,7 +204,7 @@ class Build_VectorStore:
         logging.info(f"Total vectors in chroma: {collection.count()}")
 
 
-vs = Build_VectorStore()
+vs = BuildVectorStore()
 vs.ingest_pdfs()
 vs.ingest_vectors()
 
