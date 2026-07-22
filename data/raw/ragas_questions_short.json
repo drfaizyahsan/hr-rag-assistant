@@ -1,0 +1,10 @@
+[
+  {
+    "question": "How many paid vacation days do new full-time employees receive each year?",
+    "ground_truth": "New full-time employees receive 15 paid vacation days annually."
+  },
+  {
+    "question": "Who has the authority to approve exceptions to HR policies?",
+    "ground_truth": "Documented exceptions may be approved by Human Resources or executive management."
+  }
+]
